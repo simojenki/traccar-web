@@ -1,6 +1,10 @@
 import { useMemo } from 'react';
 
 export default (t) => useMemo(() => ({
+  ntfyTopic: {
+    name: t('attributeNtfyTopic'),
+    type: 'string',
+  },
   telegramChatId: {
     name: t('attributeTelegramChatId'),
     type: 'string',

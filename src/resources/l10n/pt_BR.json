@@ -553,6 +553,7 @@
     "notificatorTraccar": "Envio de Notificação",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Empurrar",
+	"notificatorNtfy": "Ntfy",    
     "reportReplay": "Replay",
     "reportCombined": "Combinado",
     "reportPositions": "Posições",

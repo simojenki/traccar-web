@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Телеграм",
     "notificatorPushover": "Проследи",
+	"notificatorNtfy": "Ntfy",    
     "reportReplay": "Репродукција",
     "reportCombined": "Комбинирано",
     "reportPositions": "Positions",

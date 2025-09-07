@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "تلگرام",
     "notificatorPushover": "پوش آور",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "بازپخش",
     "reportCombined": "ترکیب شده",
     "reportPositions": "Positions",

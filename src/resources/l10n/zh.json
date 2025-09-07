@@ -553,6 +553,7 @@
     "notificatorTraccar": "推送通知",
     "notificatorTelegram": "Telegram 账号",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "轨迹回放",
     "reportCombined": "组合",
     "reportPositions": "位置",
