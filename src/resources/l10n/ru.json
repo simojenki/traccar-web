@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Уведомления Traccar",
     "notificatorTelegram": "Телеграмм",
     "notificatorPushover": "Нажатие",
+	"notificatorNtfy": "Ntfy",    
     "reportReplay": "Воспроизвести",
     "reportCombined": "Совместный",
     "reportPositions": "Все сообщения",

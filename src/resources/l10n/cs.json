@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push upozornění",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "Přehrát",
     "reportCombined": "Kombinovaný",
     "reportPositions": "Pozice",

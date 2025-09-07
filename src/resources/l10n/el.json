@@ -553,6 +553,7 @@
     "notificatorTraccar": "Ειδοποίηση Push",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "Επανάληψη",
     "reportCombined": "Συνδυασμένες",
     "reportPositions": "Positions",

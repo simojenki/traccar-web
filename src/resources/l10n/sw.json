@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Sukuma juu",
+	"notificatorNtfy": "Ntfy",    
     "reportReplay": "Cheza tena",
     "reportCombined": "Combined",
     "reportPositions": "Positions",

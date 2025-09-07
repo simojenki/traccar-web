@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "გამეორება",
     "reportCombined": "კომბინირებული",
     "reportPositions": "Positions",

@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "Spela Upp",
     "reportCombined": "Kombinerad",
     "reportPositions": "Positions",

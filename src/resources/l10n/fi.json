@@ -553,6 +553,7 @@
     "notificatorTraccar": "Ponnahdusilmoitus",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "Toista",
     "reportCombined": "Yhdistelmä",
     "reportPositions": "Positions",

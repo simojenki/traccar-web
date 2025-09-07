@@ -553,6 +553,7 @@
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Telegram",
     "notificatorPushover": "Pushover",
+	"notificatorNtfy": "Ntfy",
     "reportReplay": "軌跡回放",
     "reportCombined": "合併",
     "reportPositions": "Positions",
